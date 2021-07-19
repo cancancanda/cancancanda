@@ -21,7 +21,7 @@ SpaceApps COVID-19 Challenge　2020に参加しました。これは毎年米国
 https://docs.google.com/presentation/d/1-hlLIxfeZW6QPeEliNJEqmjV8E0eW7BqKbDELZlbzCk/edit?usp=sharing
 
 
-## 古橋研ガチャハッカソン　3Dモデリング＆3Dプリント
+## 古橋研ガチャハッカソン　3Dモデリング＆3Dプリント(2021.05)
 
 このハッカソンは、それぞれのゼミ内サークルが3Dモデリングをして古橋研究室ガチャの景品を作るというものでした。私は”ドローン部”に所属していたためドローンに関するものを作成するということで、数種類の機体と災害ドローン救援隊"DRONE BIRD"のロゴを作成しました。
 
@@ -30,4 +30,6 @@ https://medium.com/furuhashilab/%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%82%92%E4
 
 ![image](https://user-images.githubusercontent.com/62165727/126097065-5d423bfa-7be8-4271-996e-f05f814ac1c1.png)
 ![image](https://user-images.githubusercontent.com/62165727/126097177-0b6d5da0-25b8-43d8-9352-50cb767c9f60.png)
+
+<!-- ## 三年時ゼミ論 -->
 
