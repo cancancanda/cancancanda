@@ -31,5 +31,13 @@ https://medium.com/furuhashilab/%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%82%92%E4
 ![image](https://user-images.githubusercontent.com/62165727/126097065-5d423bfa-7be8-4271-996e-f05f814ac1c1.png)
 ![image](https://user-images.githubusercontent.com/62165727/126097177-0b6d5da0-25b8-43d8-9352-50cb767c9f60.png)
 
-<!-- ## 三年時ゼミ論 -->
+## 三年時ゼミ論/四年時卒論予定
+
+三年時のゼミ論では、バーチャル空間に都市を再現するデジタルツインに関心をもっていたので、CityGMLとCityJSONについて理解を深めそれまで使用していたBlenderという3Dモデリングソフトにおいてこのデータ形式を扱う方法を日本語でマニュアルとして作成しました。四年時の卒業論文でも引き続きデジタルツインに関連するテーマで取り組んでいきたいと思います。
+
+国土交通省主導の日本全国の3D都市モデルの整備・活用・オープンデータ化プロジェクト、「PLATEAU」で興味を持った。
+https://www.mlit.go.jp/plateau/
+
+### 2020年度ゼミ論用レポジトリ
+https://github.com/furuhashilab/2020gsc_YosukeKanda/blob/master/graduationthesis.md
 
