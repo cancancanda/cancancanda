@@ -2,7 +2,7 @@
 ## Yosuke Kanda's Portfolio
 
 ## Medium(古橋研究室ブログ）
-私がこれまでに投稿した記事をまとめています。
+これまでに投稿した記事をまとめています。
 
 https://medium.com/me/stories/public
 
